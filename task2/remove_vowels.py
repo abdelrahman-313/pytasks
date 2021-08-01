@@ -4,6 +4,6 @@ def rem_vowel(word):
     result = ''.join(result)
     print(result)
 
-    
+
 if __name__ == '__main__':
     rem_vowel('Mobile')
